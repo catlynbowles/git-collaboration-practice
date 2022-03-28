@@ -5,3 +5,4 @@
 - [x] Set up local repo
 - [x] Set up remote repo
 - [x] Make Bryce a contributor
+- [x] I'm GETTIN IT
